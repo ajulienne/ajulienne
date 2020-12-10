@@ -30,7 +30,7 @@ Create memory cards, each being a question and an answer, to help you memorize s
 
 This was made with VueJS, Vuex and VueRouter.
 
-[Repo](https://github.com/ajulienne/memory-cards) | [Demo](ajulienne.github.io/memory-cards)
+[Repo](https://github.com/ajulienne/memory-cards) | [Demo](https://ajulienne.github.io/memory-cards)
 
 ### React Typescript starter
 
